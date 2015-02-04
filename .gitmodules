@@ -1,12 +1,12 @@
 [submodule "ckanext-hierarchy"]
 	path = ckanext-hierarchy
 	url = git@github.com:datagovuk/ckanext-hierarchy.git
-[submodule "ckanext-spatial"]
-	path = ckanext-spatial
-	url = git@github.com:ckan/ckanext-spatial.git
 [submodule "ckanext-disqus"]
 	path = ckanext-disqus
 	url = git@github.com:ckan/ckanext-disqus.git
 [submodule "ckan"]
 	path = ckan
 	url = git@github.com:ckan/ckan.git
+[submodule "ckanext-donneesqctheme"]
+	path = ckanext-donneesqctheme
+	url = git@github.com:boxkite/ckanext-donneesqctheme.git

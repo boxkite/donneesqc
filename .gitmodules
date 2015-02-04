@@ -1,6 +1,3 @@
-[submodule "ckanext-qa"]
-	path = ckanext-qa
-	url = git@github.com:datagovuk/ckanext-qa.git
 [submodule "ckanext-hierarchy"]
 	path = ckanext-hierarchy
 	url = git@github.com:datagovuk/ckanext-hierarchy.git

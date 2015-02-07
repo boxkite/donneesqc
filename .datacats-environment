@@ -1,0 +1,5 @@
+[datacats]
+name = donneesqc
+ckan_version = master
+port = 5200
+

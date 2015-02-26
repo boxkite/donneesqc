@@ -16,3 +16,6 @@
 [submodule "ckanext-archiver"]
 	path = ckanext-archiver
 	url = https://github.com/ckan/ckanext-archiver.git
+[submodule "ckanext-qa"]
+	path = ckanext-qa
+	url = https://github.com/ckan/ckanext-qa.git

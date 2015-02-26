@@ -10,3 +10,6 @@
 [submodule "ckanext-donneesqctheme"]
 	path = ckanext-donneesqctheme
 	url = git@github.com:boxkite/ckanext-donneesqctheme.git
+[submodule "ckanext-googleanalytics"]
+	path = ckanext-googleanalytics
+	url = https://github.com/ckan/ckanext-googleanalytics.git

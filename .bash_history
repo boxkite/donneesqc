@@ -15,3 +15,8 @@ ls
 vim shell.sh 
 cat shell.sh 
 exit
+paster
+paster --plugin=ckan
+paster --plugin=ckan celeryd
+paster --plugin=ckan celeryd
+exit

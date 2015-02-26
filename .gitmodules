@@ -13,3 +13,6 @@
 [submodule "ckanext-googleanalytics"]
 	path = ckanext-googleanalytics
 	url = https://github.com/ckan/ckanext-googleanalytics.git
+[submodule "ckanext-archiver"]
+	path = ckanext-archiver
+	url = https://github.com/ckan/ckanext-archiver.git

@@ -19,3 +19,6 @@
 [submodule "ckanext-qa"]
 	path = ckanext-qa
 	url = https://github.com/ckan/ckanext-qa.git
+[submodule "ckanext-scheming"]
+	path = ckanext-scheming
+	url = https://github.com/open-data/ckanext-scheming.git

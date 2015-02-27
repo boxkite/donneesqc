@@ -22,3 +22,6 @@
 [submodule "ckanext-scheming"]
 	path = ckanext-scheming
 	url = https://github.com/open-data/ckanext-scheming.git
+[submodule "ckanext-geojsonview"]
+	path = ckanext-geojsonview
+	url = https://github.com/deniszgonjanin/ckanext-geojsonview.git

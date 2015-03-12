@@ -25,3 +25,6 @@
 [submodule "ckanext-geojsonview"]
 	path = ckanext-geojsonview
 	url = https://github.com/deniszgonjanin/ckanext-geojsonview.git
+[submodule "ofs-hero"]
+	path = ofs-hero
+	url = https://github.com/ckan/ofs-hero.git

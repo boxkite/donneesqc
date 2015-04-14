@@ -94,6 +94,7 @@
     <field name="ratings_average" type="float" indexed="true" stored="false" />
     <field name="tags" type="string" indexed="true" stored="true" multiValued="true"/>
     <field name="groups" type="string" indexed="true" stored="true" multiValued="true"/>
+    <field name="featured_dataset" type="string" indexed="true" stored="true" multiValued="true"/>
 
     <field name="capacity" type="string" indexed="true" stored="true" multiValued="false"/>
 

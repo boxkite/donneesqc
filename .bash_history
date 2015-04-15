@@ -34,3 +34,4 @@ exit
 exit
 pip freeze | grep sqlalchemy
 exit
+exit

@@ -1,3 +1,6 @@
+[submodule "ckanext-hierarchy"]
+	path = ckanext-hierarchy
+	url = git@github.com:datagovuk/ckanext-hierarchy.git
 [submodule "ckanext-disqus"]
 	path = ckanext-disqus
 	url = git@github.com:ckan/ckanext-disqus.git
@@ -25,6 +28,6 @@
 [submodule "ckanext-harvest"]
 	path = ckanext-harvest
 	url = https://github.com/ckan/ckanext-harvest.git
-[submodule "ckanext-hierarchy"]
-	path = ckanext-hierarchy
-	url = https://github.com/datagovuk/ckanext-hierarchy.git
+[submodule "ckanext-webhooks"]
+	path = ckanext-webhooks
+	url = https://github.com/deniszgonjanin/ckanext-webhooks.git
